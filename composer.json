@@ -1,0 +1,17 @@
+{
+    "name": "xjryanse/api",
+    "description": "对外开放api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xjryanse",
+            "email": "xjryanse@sina.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "xjryanse\\api\\": "src/"
+        }
+    }
+}
